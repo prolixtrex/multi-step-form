@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: (https://github.com/prolixtrex/multi-step-form)
--   Live Site URL: (https://bright-multi-step-form.netlify.app/)
+-   Solution URL: https://github.com/prolixtrex/multi-step-form
+-   Live Site URL: https://bright-multi-step-form.netlify.app/
 
 ## My process
 
@@ -54,5 +54,5 @@ react redux state management
 
 ## Author
 
--   Frontend Mentor - (https://www.frontendmentor.io/profile/prolixtrex)
--   Twitter - (https://www.twitter.com/anua.bright)
+-   Frontend Mentor - https://www.frontendmentor.io/profile/prolixtrex
+-   Twitter - https://www.twitter.com/anua_bright
